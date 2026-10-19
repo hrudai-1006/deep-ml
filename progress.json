@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:52:58.031Z",
+  "generated_at": "2026-10-19T05:53:00.355Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -22,6 +22,45 @@
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-11T12:09:23.579Z",
       "last_pushed_at": "2026-09-11T12:09:23.579Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-19T05:43:39.868Z",
+      "last_pushed_at": "2026-10-19T05:43:39.868Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-19T05:47:37.475Z",
+      "last_pushed_at": "2026-10-19T05:47:37.475Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-10-19T05:51:55.142Z",
+      "last_pushed_at": "2026-10-19T05:51:55.142Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
