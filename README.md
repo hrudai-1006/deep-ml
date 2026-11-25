@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 25 problems · 0 labs · 4 math
+**30** solved · 26 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-19 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-25 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-25 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-10-21 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-27 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-25 | [solution](problems/0014-linear-regression-using-normal-equation) |
